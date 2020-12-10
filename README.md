@@ -2,6 +2,9 @@
 
 Here is the link to the [Udemy course](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/). Jose Portilla is a great teacher and it is well worth the cost.
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VickyGuo0907/Python-DS-And-ML-Bootcamp)
+
 ### Directories
 
 1. [Python Crash Course](https://github.com/thomasdunlap/Python-DS-And-ML-Bootcamp/tree/master/Python-Crash-Course)
